@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivani789](https://github.com/shivani789)
 
-- 📝 I regulary write articles on [https://medium.com/@shivanig.it18](https://medium.com/@shivanig.it18)
+- 📝 I regulary write articles on [https://medium.com/@shivanig.it18](https://shivanig-it18.medium.com/)
 
 - 📫 How to reach me **shivanig.it18@nsut.ac.in**
 
@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/shivanigupta-61181b179" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shivanigupta-61181b179" height="30" width="40" /></a>
 <a href="https://fb.com/tufnell.handbags" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tufnell.handbags" height="30" width="40" /></a>
 <a href="https://instagram.com/tufnell_handbags" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tufnell_handbags" height="30" width="40" /></a>
-<a href="https://medium.com/@shivanig.it18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shivanig.it18" height="30" width="40" /></a>
+<a href="https://shivanig-it18.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shivanig.it18" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shivani__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivani__" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@shivani_gupta911" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@shivani_gupta911" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shivani9100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="shivani9100" height="30" width="40" /></a>

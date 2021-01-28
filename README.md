@@ -11,8 +11,18 @@
 
 - 📫 How to reach me **shivanig.it18@nsut.ac.in**
 
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Do’s and Don’ts for Women TechMakers Scholarship Application Form](https://shivanig-it18.medium.com/dos-and-don-ts-for-women-techmakers-scholarship-application-form-5aa14f56260a)
+- [Microsoft Learn Student Ambassador Application Form Tips](https://shivanig-it18.medium.com/microsoft-learn-student-ambassador-application-form-tips-b05689495296)
+- [Linux Scholarship Application Answering Tips](https://shivanig-it18.medium.com/linux-scholarship-application-antips-55d44871ac90)
+- [DSC Lead Application Form Questions](https://shivanig-it18.medium.com/dsc-lead-application-form-questions-c8a7c4e1732d)
+- [Adobe Women In Technology Scholarship Application Form](https://shivanig-it18.medium.com/adobe-women-in-technology-scholarship-application-form-50b73fa00505)
+- [Adobe Women In Technology Scholarship Application Form Tips](https://shivanig-it18.medium.com/adobe-women-in-technology-scholarship-application-form-tips-1f2edd95025a)
+- [How to design a stylish profile page for your Github profile?](https://shivanig-it18.medium.com/how-to-design-a-stylish-profile-page-for-your-github-profile-20943b2c8a95)
+- [MLH Fellowship Application Form](https://shivanig-it18.medium.com/mlh-fellowship-application-form-ef0e87c6fe3a)
+- [Situational Judgemental Test](https://shivanig-it18.medium.com/situational-judgement-test-db763fc1e79c)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

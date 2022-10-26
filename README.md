@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivani Gupta</h1>
-<h3 align="center">Third year Student from Netaji Subhas University of Technology majoring in Information Technology.</h3>
+<h3 align="center">Data Engineer at Walmart Global Tech </h3>
+<h3 align="center">Ex-Summer Intern at Schlumberger </h3>
+<h3 align="center">Information Technology, Netaji Subhas University of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani789&label=Profile%20views&color=0e75b6&style=flat" alt="shivani789" /> </p>
 
